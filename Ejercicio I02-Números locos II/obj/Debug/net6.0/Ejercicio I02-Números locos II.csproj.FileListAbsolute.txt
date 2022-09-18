@@ -1,0 +1,15 @@
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\bin\Debug\net6.0\Ejercicio I02-Números locos II.exe
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\bin\Debug\net6.0\Ejercicio I02-Números locos II.deps.json
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\bin\Debug\net6.0\Ejercicio I02-Números locos II.runtimeconfig.json
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\bin\Debug\net6.0\Ejercicio I02-Números locos II.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\bin\Debug\net6.0\Ejercicio I02-Números locos II.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\obj\Debug\net6.0\Ejercicio I02-Números locos II.csproj.AssemblyReference.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\obj\Debug\net6.0\Ejercicio I02-Números locos II.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\obj\Debug\net6.0\Ejercicio I02-Números locos II.AssemblyInfoInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\obj\Debug\net6.0\Ejercicio I02-Números locos II.AssemblyInfo.cs
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\obj\Debug\net6.0\Ejercicio I02-Números locos II.csproj.CoreCompileInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\obj\Debug\net6.0\Ejercicio I02-Números locos II.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\obj\Debug\net6.0\refint\Ejercicio I02-Números locos II.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\obj\Debug\net6.0\Ejercicio I02-Números locos II.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\obj\Debug\net6.0\Ejercicio I02-Números locos II.genruntimeconfig.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I02-Números locos II\obj\Debug\net6.0\ref\Ejercicio I02-Números locos II.dll
