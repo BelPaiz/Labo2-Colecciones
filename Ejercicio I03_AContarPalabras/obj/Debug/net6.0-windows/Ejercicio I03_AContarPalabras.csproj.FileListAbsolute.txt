@@ -1,0 +1,18 @@
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\bin\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.exe
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\bin\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.deps.json
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\bin\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.runtimeconfig.json
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\bin\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\bin\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.csproj.AssemblyReference.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio_I03_AContarPalabras.ContadorPalabras.resources
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio_I03_AContarPalabras.Properties.Resources.resources
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.csproj.GenerateResource.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.AssemblyInfoInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.AssemblyInfo.cs
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.csproj.CoreCompileInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\refint\Ejercicio I03_AContarPalabras.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\Ejercicio I03_AContarPalabras.genruntimeconfig.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio I03_AContarPalabras\obj\Debug\net6.0-windows\ref\Ejercicio I03_AContarPalabras.dll

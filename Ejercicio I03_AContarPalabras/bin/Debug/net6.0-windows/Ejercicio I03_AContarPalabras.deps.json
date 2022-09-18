@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio I03_AContarPalabras/1.0.0": {
+        "runtime": {
+          "Ejercicio I03_AContarPalabras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I03_AContarPalabras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
