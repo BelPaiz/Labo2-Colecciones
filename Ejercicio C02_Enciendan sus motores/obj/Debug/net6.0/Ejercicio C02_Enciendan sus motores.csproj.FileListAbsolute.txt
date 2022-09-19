@@ -1,0 +1,12 @@
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\bin\Debug\net6.0\Ejercicio C02_Enciendan sus motores.deps.json
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\bin\Debug\net6.0\Ejercicio C02_Enciendan sus motores.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\bin\Debug\net6.0\Ejercicio C02_Enciendan sus motores.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\obj\Debug\net6.0\Ejercicio C02_Enciendan sus motores.csproj.AssemblyReference.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\obj\Debug\net6.0\Ejercicio C02_Enciendan sus motores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\obj\Debug\net6.0\Ejercicio C02_Enciendan sus motores.AssemblyInfoInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\obj\Debug\net6.0\Ejercicio C02_Enciendan sus motores.AssemblyInfo.cs
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\obj\Debug\net6.0\Ejercicio C02_Enciendan sus motores.csproj.CoreCompileInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\obj\Debug\net6.0\Ejercicio C02_Enciendan sus motores.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\obj\Debug\net6.0\refint\Ejercicio C02_Enciendan sus motores.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\obj\Debug\net6.0\Ejercicio C02_Enciendan sus motores.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02_Enciendan sus motores\obj\Debug\net6.0\ref\Ejercicio C02_Enciendan sus motores.dll
